@@ -1,0 +1,50 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="demaikel.listadecompras.views.main.MainActivity">
+    <item
+        android:id="@+id/drinks"
+        android:title="Bebestibles "
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/meat_and_fish"
+        android:title="Carne y Pescado"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cereals_and_pasta"
+        android:title="Cereales y Pastas"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/frozen_foods"
+        android:title="Congelados"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sweets"
+        android:title="Dulces"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fruits_and_vegetables"
+        android:title="Frutas y Verduras"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/dairy_products"
+        android:title="Lacteos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cleaning"
+        android:title="Limpieza"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pet"
+        android:title="Mascota"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/bread_and_pastry"
+        android:title="Panaderia y Pasteleria"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/others"
+        android:title="Otros"
+        app:showAsAction="never" />
+
+</menu>
